@@ -2,8 +2,6 @@
 
 This repository compares **two equivalent analyses** of a Facebook political advertising dataset from the **2024 U.S. presidential** period: one script uses **only the Python standard library**; the other uses **Pandas**. Both print the same categories of descriptive statistics so you can verify they agree.
 
-**Do not commit the dataset.** This repo is intended for code and documentation only.
-
 ## Project description
 
 Each row in the CSV represents an ad placement that references one or more presidential candidates. The analysis:
